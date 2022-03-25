@@ -24,7 +24,7 @@ export const aboutData = {
     'As a tech savy individual, am always exited about many technologies which man have built to make life easier. Web development, as a form modern technology, has greately changed and improved how we live and carry out our everyday activities. ',
   paragraphThree:
     'I hope to have my contributions in making the world a better place through technology',
-  resume: 'https://drive.google.com/file/d/1Yt1M0C8sd-VMvXU3vz_7yaEGzhF8DTqa/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/12MEOXmQGX1bAeBmHUhh-flE4tosTTy15/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
