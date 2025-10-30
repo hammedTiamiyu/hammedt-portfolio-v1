@@ -83,6 +83,15 @@ export const projectsData = [
     url: 'https://react-movie-database1.netlify.app/',
     repo: 'https://github.com/hammedTiamiyu/react-movieDB', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'react-moviedb.png',
+    title: 'Cinema DB',
+    info: 'Just playing around',
+    info2: '',
+    url: 'https://react-movie-database1.netlify.app/',
+    repo: 'https://github.com/hammedTiamiyu/react-movieDB', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
@@ -108,7 +117,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/hammed-tiamiyu-92b02a203',
+      url: 'https://www.linkedin.com/in/hammedtiamiyu/',
     },
     {
       id: nanoid(),
